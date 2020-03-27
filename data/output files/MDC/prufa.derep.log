@@ -1,0 +1,9 @@
+This is a log file, which has the information of which ID´s have identical/similar sequences :)
+*Sequence:AACCGGTTGGCCAA
+IDs:>1.1,>1.2,>1.3
+*Sequence:AAACCGGTTCCG
+IDs:>1.4
+*Sequence:AAACCGGTT
+IDs:>1.5
+*Sequence:TTCCGGAACCGGTTAACCGGTTT
+IDs:>1.6
